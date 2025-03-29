@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hello! I'm BytingK9
+
+I'm a former illustrator pursuing a career in programming, specifically I desire to become a video game programmer! 
+I have just begun my programming journey and hope it make great things! 
 
 <!--
 **BytingK9/BytingK9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
